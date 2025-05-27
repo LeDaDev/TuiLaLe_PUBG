@@ -1,4 +1,4 @@
 {
-  "ABC123": { status: "unused", expiry: "2026-05-27" },
-  "XYZ789": { status: "used", expiry: "2025-12-31" }
+  "ABC123": { "status": "unused", "expiry": "2026-05-27" },
+  "XYZ789": { "status": "used", "expiry": "2025-12-31" }
 }
